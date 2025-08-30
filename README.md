@@ -7,7 +7,7 @@ Below you’ll find links to the repositories that explore different aspects of 
 
 ## 📂 Project List
 
-- [openbexi](https://github.com/arcazj/openbexi) – Core OpenBexi project.  
+- [openbexi](https://github.com/arcazj/openbexi) – A WYSIWYG HTML builder.  
 - [openbexi_earth_orbit](https://github.com/arcazj/openbexi_earth_orbit) – Earth orbit visualizations and simulations.  
 - [openbexi_SPELL](https://github.com/arcazj/openbexi_SPELL) – SPELL framework experiments.  
 - [openbexi_timeline](https://github.com/arcazj/openbexi_timeline) – Timeline visualization and event tracking.  
