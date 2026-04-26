@@ -16,6 +16,7 @@ Below you’ll find links to the repositories that explore different aspects of 
 - [openBexi_BasicMath4Kid](https://github.com/arcazj/openBexi_BasicMath4Kid) – Fun, kid-friendly math learning tools.  
 - [openbexi_quake](https://github.com/arcazj/openbexi_quake) – Seismic visualization and analysis.
 - [openbexi_SPELL](https://github.com/arcazj/openbexi_SPELL) – SPELL framework experiments.
+- [Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer](https://github.com/arcazj/Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer) - Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer
 
 ---
 
