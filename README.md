@@ -9,13 +9,14 @@ Below you’ll find links to the repositories that explore different aspects of 
 
 - [openbexi](https://github.com/arcazj/openbexi) – A WYSIWYG HTML builder.  
 - [openbexi_earth_orbit](https://github.com/arcazj/openbexi_earth_orbit) – Earth orbit visualizations and simulations.    
-- [openbexi_timeline](https://github.com/arcazj/openbexi_timeline) – Timeline visualization and event tracking.
+- [openbexi_timeline2.0](https://github.com/arcazj/openbexi_timeline2.0) – Timeline visualization and event tracking.
 - [openbexi_speech2text](https://github.com/arcazj/speech2text) – A modern English pronunciation trainer.
 - [openbexi_hypergraph](https://github.com/arcazj/openbexi_hypergraph) – Graph-based data modeling using hypergraphs.  
 - [openbexi_hbds](https://github.com/arcazj/openbexi_hbds) – Hybrid Bexi Data Structures (HBDS).  
 - [openBexi_BasicMath4Kid](https://github.com/arcazj/openBexi_BasicMath4Kid) – Fun, kid-friendly math learning tools.  
 - [openbexi_quake](https://github.com/arcazj/openbexi_quake) – Seismic visualization and analysis.
 - [openbexi_SPELL](https://github.com/arcazj/openbexi_SPELL) – SPELL framework experiments.
+- [openbexi_timeline](https://github.com/arcazj/openbexi_timeline) – Timeline visualization and event tracking.
 - [Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer](https://github.com/arcazj/Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer) - Maternal-Fetal-Placental-Federated-Knowledge-Graph-Explorer
 
 ---
