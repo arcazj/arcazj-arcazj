@@ -10,7 +10,7 @@ Below you’ll find links to the repositories that explore different aspects of 
 - [openbexi](https://github.com/arcazj/openbexi) – A WYSIWYG HTML builder.  
 - [openbexi_earth_orbit](https://github.com/arcazj/openbexi_earth_orbit) – Earth orbit visualizations and simulations.
 - [openbexi_timeline](https://github.com/arcazj/openbexi_timeline) – Timeline visualization and event tracking.   
-- [openbexi_speech2text](https://github.com/arcazj/speech2text) – A modern English pronunciation trainer.
+- [openbexi_speech2text](https://github.com/arcazj/openbexi_discovery) – Make human knowledge accessible to everyone, from the first lesson to the frontiers of scientific discovery.
 - [openbexi_hbds](https://github.com/arcazj/openbexi_hbds) – Hybrid Bexi Data Structures (HBDS). 
 - [openBexi_BasicMath4Kid](https://github.com/arcazj/openBexi_BasicMath4Kid) – Fun, kid-friendly math learning tools.  
 - [openbexi_quake](https://github.com/arcazj/openbexi_quake) – Seismic visualization and analysis.
